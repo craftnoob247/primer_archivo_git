@@ -1,1 +1,1 @@
-HELLO WORLD, WELCOME TO MY FIRST PROYECT IN GIT profe amadeo 
+HELLO WORLD, WELCOME TO MY FIRST PROYECT IN GIT profeamadeo, ahora desde visual code
